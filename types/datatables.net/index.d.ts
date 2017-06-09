@@ -1719,6 +1719,7 @@ declare namespace DataTables {
         loadingRecords?: string;
         processing?: string;
         search?: string;
+        searchPlaceholder?: string;
         zeroRecords?: string;
         paginate?: LanguagePaginateSettings;
         aria?: LanguageAriaSettings;
